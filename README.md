@@ -40,4 +40,4 @@ This is a Library Management System developed using Spring MVC and Hibernate. Th
 1. **Clone the Repository**
 
    ```bash
-    git clone https://github.com/karthik6810/library-management-system.git
+    https://github.com/karthik6810/Library-Management-System.git
